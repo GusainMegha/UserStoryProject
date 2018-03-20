@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jackanory.iml" filepath="$PROJECT_DIR$/jackanory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jackanory-data/jackanory-data.iml" filepath="$PROJECT_DIR$/jackanory-data/jackanory-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jackanory-data-dao/jackanory-data-dao.iml" filepath="$PROJECT_DIR$/jackanory-data-dao/jackanory-data-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jackanory-data-dao/jackanory-data-dao-api/jackanory-data-dao-api.iml" filepath="$PROJECT_DIR$/jackanory-data-dao/jackanory-data-dao-api/jackanory-data-dao-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jackanory-data-dao/jackanory-data-dao-impl/jackanory-data-dao-impl.iml" filepath="$PROJECT_DIR$/jackanory-data-dao/jackanory-data-dao-impl/jackanory-data-dao-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jackanory-data/jackanory-data-impl/jackanory-data-impl.iml" filepath="$PROJECT_DIR$/jackanory-data/jackanory-data-impl/jackanory-data-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jackanory-domain/jackanory-domain.iml" filepath="$PROJECT_DIR$/jackanory-domain/jackanory-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jackanory-domain/jackanory-domain-api/jackanory-domain-api.iml" filepath="$PROJECT_DIR$/jackanory-domain/jackanory-domain-api/jackanory-domain-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jackanory-domain-dao/jackanory-domain-dao.iml" filepath="$PROJECT_DIR$/jackanory-domain-dao/jackanory-domain-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jackanory-domain-dao/jackanory-domain-dao-api/jackanory-domain-dao-api.iml" filepath="$PROJECT_DIR$/jackanory-domain-dao/jackanory-domain-dao-api/jackanory-domain-dao-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jackanory-domain-dao/jackanory-domain-dao-impl/jackanory-domain-dao-impl.iml" filepath="$PROJECT_DIR$/jackanory-domain-dao/jackanory-domain-dao-impl/jackanory-domain-dao-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jackanory-domain/jackanory-domain-impl/jackanory-domain-impl.iml" filepath="$PROJECT_DIR$/jackanory-domain/jackanory-domain-impl/jackanory-domain-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jackanory-manager/jackanory-manager.iml" filepath="$PROJECT_DIR$/jackanory-manager/jackanory-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jackanory-manager/jackanory-manager-api/jackanory-manager-api.iml" filepath="$PROJECT_DIR$/jackanory-manager/jackanory-manager-api/jackanory-manager-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jackanory-manager/jackanory-manager-impl/jackanory-manager-impl.iml" filepath="$PROJECT_DIR$/jackanory-manager/jackanory-manager-impl/jackanory-manager-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jackanory-spring/jackanory-spring.iml" filepath="$PROJECT_DIR$/jackanory-spring/jackanory-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jackanory-spring/jackanory-spring-spring/jackanory-spring-spring.iml" filepath="$PROJECT_DIR$/jackanory-spring/jackanory-spring-spring/jackanory-spring-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jackanory-tests/jackanory-tests.iml" filepath="$PROJECT_DIR$/jackanory-tests/jackanory-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jackanory-tests/jackanory-tests-impl/jackanory-tests-impl.iml" filepath="$PROJECT_DIR$/jackanory-tests/jackanory-tests-impl/jackanory-tests-impl.iml" />
+    </modules>
+  </component>
+</project>
